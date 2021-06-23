@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
     fmt.Println("callmainfunction")
-    //修复bug
+    fmt.Println("hello world")
 }
